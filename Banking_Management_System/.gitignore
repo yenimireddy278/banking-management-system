@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+banking.db
+*.db-journal
+.venv/
+venv/
+.idea/
+.vscode/
